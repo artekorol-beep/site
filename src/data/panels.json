@@ -1,0 +1,590 @@
+[
+  {
+    "id": "PANEL-001",
+    "name": "Зеркало Панорама - Белый софт",
+    "price": 12500,
+    "sourcePrice": 10000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-002",
+    "name": "Зеркало Панорама - Черный кварц с тонировкой",
+    "price": 12500,
+    "sourcePrice": 10000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-003",
+    "name": "Зеркало Максимум - Черный кварц с тонировкой",
+    "price": 11300,
+    "sourcePrice": 9000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-004",
+    "name": "Зеркало Максимум - Белый софт",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-005",
+    "name": "Зеркало Максимум - Грей софт",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-006",
+    "name": "Зеркало Максимум - Сандал белый",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-007",
+    "name": "Зеркало Максимум - Бетон светлый",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-008",
+    "name": "Зеркало Максимум - Венге",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-009",
+    "name": "Зеркало Фацет - Белый софт с багетом",
+    "price": 12500,
+    "sourcePrice": 10000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-010",
+    "name": "Зеркало 18 - Белое дерево",
+    "price": 8800,
+    "sourcePrice": 7000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-011",
+    "name": "Зеркало 18 - Сандал белый",
+    "price": 8800,
+    "sourcePrice": 7000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-012",
+    "name": "Зеркало 18 - Бетон светлый",
+    "price": 8800,
+    "sourcePrice": 7000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-013",
+    "name": "Зеркало 19 - Белый софт",
+    "price": 8800,
+    "sourcePrice": 7000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-014",
+    "name": "Зеркало 19 - Грей софт",
+    "price": 8800,
+    "sourcePrice": 7000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-015",
+    "name": "Зеркало 32 - Белый рельеф софт с тонировкой",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-016",
+    "name": "Зеркало 32 - Серый рельеф софт с тонировкой",
+    "price": 10000,
+    "sourcePrice": 8000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-017",
+    "name": "Зеркало Дольче - Белый софт  новинка",
+    "price": 9800,
+    "sourcePrice": 7800,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-018",
+    "name": "Зеркало Дольче - Капучино  новинка",
+    "price": 9800,
+    "sourcePrice": 7800,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-019",
+    "name": "Зеркало Аркада - Веллюто ферро с патиной  новинка",
+    "price": 11300,
+    "sourcePrice": 9000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-020",
+    "name": "01 - Сандал белый, стекло белое",
+    "price": 8000,
+    "sourcePrice": 6400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-021",
+    "name": "01 - Белое дерево, стекло черное",
+    "price": 8000,
+    "sourcePrice": 6400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-022",
+    "name": "01 - Беленый дуб, стекло черное",
+    "price": 8000,
+    "sourcePrice": 6400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-023",
+    "name": "02 - Сандал белый, стекло черное",
+    "price": 8000,
+    "sourcePrice": 6400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-024",
+    "name": "03 - Белый софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-025",
+    "name": "03 - Капучино",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-026",
+    "name": "03 - Сандал белый",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-027",
+    "name": "03 - Орех бренди",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-028",
+    "name": "03 - Орех премиум",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-029",
+    "name": "04 - Беленый дуб",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-030",
+    "name": "05 - Венге светлый (ДВП 6 мм)",
+    "price": 4300,
+    "sourcePrice": 3400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-031",
+    "name": "05 - Ясень светлый (ДВП 6 мм)",
+    "price": 4300,
+    "sourcePrice": 3400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-032",
+    "name": "05 - Ясень темный (ДВП 6 мм)",
+    "price": 4300,
+    "sourcePrice": 3400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-033",
+    "name": "06 - Белое дерево",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-034",
+    "name": "06 - Сандал белый",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-035",
+    "name": "06 - Сандал серый",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-036",
+    "name": "07 - Белое дерево (без фрезеровки)",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-037",
+    "name": "09 - Белый софт  новинка",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-038",
+    "name": "09 - Капучино  новинка",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-039",
+    "name": "10 - Белый рельеф софт (молдинг)",
+    "price": 7500,
+    "sourcePrice": 6000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-040",
+    "name": "10 - Серый рельеф софт (молдинг)",
+    "price": 7500,
+    "sourcePrice": 6000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-041",
+    "name": "11 - Белый софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-042",
+    "name": "11 - Графит софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-043",
+    "name": "12 - Белое дерево",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-044",
+    "name": "12 - Беленый дуб",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-045",
+    "name": "12 - Венге",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-046",
+    "name": "13 - Белый софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-047",
+    "name": "13 - Грей софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-048",
+    "name": "13 - Графит софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-049",
+    "name": "15 - Алмон 25 (винорит)",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-050",
+    "name": "17 - Золотой дуб (винорит)",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-051",
+    "name": "21 - Белый софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-052",
+    "name": "21 - Грей софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-053",
+    "name": "21 - Бетон светлый",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-054",
+    "name": "22 - Белый софт (молдинг)",
+    "price": 7500,
+    "sourcePrice": 6000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-055",
+    "name": "22 - Графит софт (молдинг)",
+    "price": 7500,
+    "sourcePrice": 6000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-056",
+    "name": "23 - Белый софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-057",
+    "name": "23 - Ванилла веллюто",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-058",
+    "name": "24 - Белый софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-059",
+    "name": "24 - Графит софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-060",
+    "name": "24 - Бетон светлый",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-061",
+    "name": "25 - Белый софт (молдинг)",
+    "price": 7500,
+    "sourcePrice": 6000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-062",
+    "name": "25 - Бетон светлый (молдинг)",
+    "price": 7500,
+    "sourcePrice": 6000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-063",
+    "name": "26 - Ral 9003 (Эмаль МДФ 16 мм)",
+    "price": 13800,
+    "sourcePrice": 11000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-064",
+    "name": "27 - Ral 9003 (Эмаль МДФ 16 мм)",
+    "price": 13800,
+    "sourcePrice": 11000,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-065",
+    "name": "28 - Грунт под покраску",
+    "price": 11000,
+    "sourcePrice": 8800,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-066",
+    "name": "29 - Белый рельеф софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-067",
+    "name": "29 - Серый рельеф софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-068",
+    "name": "29 - Капучино",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-069",
+    "name": "29 - Дуб кантри темный",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-070",
+    "name": "29 - Черный кварц",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-071",
+    "name": "30 - Белый рельеф софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-072",
+    "name": "30 - Серый рельеф софт",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-073",
+    "name": "31 - Беленый софт, зеркальная вставка с тонировкой",
+    "price": 8000,
+    "sourcePrice": 6400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-074",
+    "name": "31 - Черный кварц, зеркальная вставка с тонировкой",
+    "price": 8000,
+    "sourcePrice": 6400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-075",
+    "name": "33 - Белый софт  новинка",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-076",
+    "name": "33 - Капучино  новинка",
+    "price": 6800,
+    "sourcePrice": 5400,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-077",
+    "name": "01 - Венге, стекло белое",
+    "price": 7000,
+    "sourcePrice": 5600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-078",
+    "name": "02 - Венге, стекло белое",
+    "price": 7000,
+    "sourcePrice": 5600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-079",
+    "name": "04 - Венге",
+    "price": 4800,
+    "sourcePrice": 3800,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-080",
+    "name": "05 - Итальянский орех",
+    "price": 3300,
+    "sourcePrice": 2600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-081",
+    "name": "14 - Эковенге поперечный",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-082",
+    "name": "14 - Дуб кантри белый",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-083",
+    "name": "13 - ЛАЙТ грей софт",
+    "price": 5800,
+    "sourcePrice": 4600,
+    "compatibility": "Не подтверждена"
+  },
+  {
+    "id": "PANEL-084",
+    "name": "Зеркало Максимум - ЛАЙТ грей софт",
+    "price": 8800,
+    "sourcePrice": 7000,
+    "compatibility": "Не подтверждена"
+  }
+]
