@@ -27,7 +27,7 @@ export default function Home() {
   const [active,setActive] = useState<Product|null>(null);
   const [mobileMenu,setMobileMenu] = useState(false);
   const [favorites,setFavorites] = useState<string[]>([]);
-  const filtered = useMemo(()=>products.filter(p=>{
+  const filtered = useMemo(()=>products.filter(p=>p.panelRequired.toLowerCase().includes("да")).filter(p=>{
     const q=query.toLowerCase().trim();
     return (!q || p.name.toLowerCase().includes(q) || p.collection.toLowerCase().includes(q)) &&
       (collection==="Все коллекции" || p.collection===collection);
