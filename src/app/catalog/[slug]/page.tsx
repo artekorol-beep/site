@@ -29,6 +29,7 @@ type Panel = {
   price: number;
   sourcePrice: number;
   compatibility: string;
+  image?: string;
 };
 
 const products = allProducts as Product[];
@@ -184,9 +185,15 @@ export default function ProductPage() {
                     onClick={() => setSelectedPanelId(panel.id)}
                     aria-pressed={isSelected}
                   >
-                    <div className="model-panel-photo">
-                      <span>ДП</span>
-                      <small>Фото накладки уточняется</small>
+                    <div className={`model-panel-photo ${panel.image ? "has-panel-photo" : ""}`}>
+                      {panel.image ? (
+                        <img src={panel.image} alt={panel.name} />
+                      ) : (
+                        <>
+                          <span>ДП</span>
+                          <small>Фото накладки уточняется</small>
+                        </>
+                      )}
                     </div>
 
                     <span className="model-panel-name">

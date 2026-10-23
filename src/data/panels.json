@@ -123,7 +123,10 @@
     "name": "Зеркало Дольче - Капучино  новинка",
     "price": 9800,
     "sourcePrice": 7800,
-    "compatibility": "Не подтверждена"
+    "compatibility": "Не подтверждена",
+    "image": "/images/panels/PANEL-018.svg",
+    "imageSourceUrl": "https://labirintdoors.ru/images/012/452/954/12452954/560x547/labirint-karmina-zerkalo-dolche-cappuccino.jpg",
+    "imageStatus": "Кадрировано из фотографии двери с соответствующей отделкой; права на коммерческое использование необходимо подтвердить."
   },
   {
     "id": "PANEL-019",

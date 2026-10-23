@@ -391,6 +391,17 @@ p[class~="text-xs"] {
   min-height: 130px;
   margin-bottom: 12px;
 }
+.model-panel-photo.has-panel-photo {
+  height: 180px;
+  min-height: 180px;
+  padding: 8px;
+}
+.model-panel-photo.has-panel-photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 
 .model-panel-name {
   padding: 0 12px;
