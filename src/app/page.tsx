@@ -38,7 +38,7 @@ export default function Home() {
   };
   const addCart = (p:Product, panel?:Panel) => { setCart(c=>[...c,{product:p,panel}]); setActive(null); setCartOpen(true); };
   const cartTotal = cart.reduce((s,x)=>s+getPrice(x.product,x.panel),0);
-  const chooseProduct = (p:Product) => { setActive(p); setSelectedPanel(cheapestPanel?.id || ""); };
+  const chooseProduct = (p:Product) => { window.location.href = `/catalog/${encodeURIComponent(p.id)}`; };
   const activeNeedsPanel = active?.panelRequired.toLowerCase().includes("да") ?? false;
   const activePanel = panelData.find(p=>p.id===selectedPanel);
   return <main>
