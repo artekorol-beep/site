@@ -18,6 +18,8 @@ type Product = {
   description: string;
   image: string | null;
   imageStatus?: string;
+  gallery?: { src: string; label: string }[];
+  galleryNote?: string;
   sourcePriceStatus?: string;
   verificationNote?: string;
   manufacturerSpecs?: Record<string, string | undefined>;
@@ -30,10 +32,15 @@ type Panel = {
   sourcePrice: number;
   compatibility: string;
   image?: string;
+  imageSourceUrl?: string;
+  imageStatus?: string;
 };
 
 const products = allProducts as Product[];
 const panels = rawPanels as Panel[];
+const visiblePanels = panels.filter(
+  (panel) => !["PANEL-073", "PANEL-080"].includes(panel.id)
+);
 
 const formatPrice = (value: number) =>
   new Intl.NumberFormat("ru-RU").format(value) + " ₽";
@@ -51,14 +58,28 @@ export default function ProductPage() {
   const product = products.find((item) => item.id === slug);
 
   const [selectedPanelId, setSelectedPanelId] = useState(
-    panels[0]?.id || ""
+    visiblePanels[0]?.id || ""
   );
   const [customerName, setCustomerName] = useState("");
   const [phone, setPhone] = useState("");
+  const [activePhotoIndex, setActivePhotoIndex] = useState(0);
+  const [lightboxOpen, setLightboxOpen] = useState(false);
 
-  const selectedPanel = panels.find(
+  const selectedPanel = visiblePanels.find(
     (panel) => panel.id === selectedPanelId
   );
+
+  const gallery = product
+    ? (product.gallery?.length
+        ? product.gallery
+        : product.image
+          ? [{ src: product.image, label: "Основное фото" }]
+          : [])
+    : [];
+  const safePhotoIndex = gallery.length
+    ? Math.min(activePhotoIndex, gallery.length - 1)
+    : 0;
+  const activePhoto = gallery[safePhotoIndex];
 
   const estimatedPrice = product && selectedPanel
     ? calculateDoorPrice(product.sourcePrice, selectedPanel.sourcePrice)
@@ -109,8 +130,16 @@ export default function ProductPage() {
       <div className="model-layout">
         <section className="model-visual">
           <div className="model-main-image">
-            {product.image ? (
-              <img src={product.image} alt={product.name} />
+            {activePhoto ? (
+              <button
+                type="button"
+                className="model-main-image-trigger"
+                onClick={() => setLightboxOpen(true)}
+                aria-label="Увеличить фотографию"
+              >
+                <img src={activePhoto.src} alt={`${product.name} — ${activePhoto.label}`} />
+                <span className="model-zoom-hint">Увеличить фото ↗</span>
+              </button>
             ) : (
               <div className="model-placeholder">
                 <span>ДП</span>
@@ -120,7 +149,28 @@ export default function ProductPage() {
             )}
           </div>
 
+          {gallery.length > 1 && (
+            <div className="model-gallery-thumbs" aria-label="Фотографии модели">
+              {gallery.map((photo, index) => (
+                <button
+                  type="button"
+                  key={`${photo.src}-${index}`}
+                  className={`model-gallery-thumb ${index === safePhotoIndex ? "is-active" : ""}`}
+                  onClick={() => setActivePhotoIndex(index)}
+                  aria-label={`Показать фото: ${photo.label}`}
+                  aria-pressed={index === safePhotoIndex}
+                >
+                  <img src={photo.src} alt="" />
+                  <span>{photo.label}</span>
+                </button>
+              ))}
+            </div>
+          )}
+          {product.galleryNote && <p className="model-gallery-note">{product.galleryNote}</p>}
+
           <p className="model-muted">{product.name}</p>
+
+          {product.imageStatus && <p className="model-gallery-note">{product.imageStatus}</p>}
 
           {product.sourceUrl && (
             <a
@@ -154,13 +204,31 @@ export default function ProductPage() {
             </small>
           </div>
 
+          {product.manufacturerSpecs && Object.keys(product.manufacturerSpecs).length > 0 && (
+            <section className="model-specs">
+              <div className="model-specs-heading">
+                <p className="model-eyebrow">ХАРАКТЕРИСТИКИ</p>
+                <h2>Конструкция и комплектация</h2>
+              </div>
+              <div className="model-spec-grid">
+                {Object.entries(product.manufacturerSpecs).map(([label, value]) => (
+                  <div key={label}>
+                    <span>{label}</span>
+                    <b>{value}</b>
+                  </div>
+                ))}
+              </div>
+              <p className="model-gallery-note">Характеристики приведены по карточке производителя и требуют подтверждения для выбранной комплектации.</p>
+            </section>
+          )}
+
           <section className="model-options">
             <div className="model-options-heading">
               <div>
                 <p className="model-eyebrow">ВАРИАНТЫ ОТДЕЛКИ</p>
                 <h2>Выберите накладку</h2>
               </div>
-              <span>{panels.length} вариантов</span>
+              <span>{visiblePanels.length} вариантов</span>
             </div>
 
             <p className="model-muted">
@@ -169,7 +237,7 @@ export default function ProductPage() {
             </p>
 
             <div className="model-panel-grid">
-              {panels.map((panel) => {
+              {visiblePanels.map((panel) => {
                 const isSelected = panel.id === selectedPanelId;
 
                 const doorWithPanelPrice = calculateDoorPrice(
@@ -278,6 +346,30 @@ export default function ProductPage() {
           </section>
         </section>
       </div>
+
+      {lightboxOpen && activePhoto && (
+        <div className="model-lightbox" role="dialog" aria-modal="true" aria-label="Просмотр фотографии" onClick={() => setLightboxOpen(false)}>
+          <button type="button" className="model-lightbox-close" aria-label="Закрыть" onClick={() => setLightboxOpen(false)}>×</button>
+          {gallery.length > 1 && (
+            <button
+              type="button"
+              className="model-lightbox-prev"
+              aria-label="Предыдущее фото"
+              onClick={(event) => { event.stopPropagation(); setActivePhotoIndex((safePhotoIndex + gallery.length - 1) % gallery.length); }}
+            >‹</button>
+          )}
+          <img src={activePhoto.src} alt={`${product.name} — ${activePhoto.label}`} onClick={(event) => event.stopPropagation()} />
+          {gallery.length > 1 && (
+            <button
+              type="button"
+              className="model-lightbox-next"
+              aria-label="Следующее фото"
+              onClick={(event) => { event.stopPropagation(); setActivePhotoIndex((safePhotoIndex + 1) % gallery.length); }}
+            >›</button>
+          )}
+          <p>{activePhoto.label} · {safePhotoIndex + 1} из {gallery.length}</p>
+        </div>
+      )}
     </main>
   );
 }
