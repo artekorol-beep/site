@@ -1,3 +1,67 @@
+ "use client";
+import { useMemo, useState } from "react";
+import Image from "next/image";
+import { Search, ShoppingBag, Heart, Menu, ArrowRight, ShieldCheck, Truck, Wrench, Phone, X, SlidersHorizontal } from "lucide-react";
+import allProducts from "../data/products.json";
+import panels from "../data/panels.json";
+
+type Product = { id:string; name:string; collection:string; category:string; price:number; sourcePrice:number|null; sourceUrl:string; status:string; panelRequired:string; description:string; image:string|null; imageStatus?:string; sourceType?:string; sourcePriceStatus?:string; verificationNote?:string; manufacturerSpecs?:Record<string,string | undefined>; published?:boolean };
+type Panel = { id:string; name:string; price:number; sourcePrice:number; compatibility:string };
+const products = (allProducts as Product[]).slice().sort((a,b) => Number(Boolean(b.image)) - Number(Boolean(a.image)) || Number(Boolean(b.manufacturerSpecs && Object.keys(b.manufacturerSpecs).length)) - Number(Boolean(a.manufacturerSpecs && Object.keys(a.manufacturerSpecs).length)) || a.name.localeCompare(b.name, "ru"));
+const panelData = panels as Panel[];
+const collections = Array.from(new Set(products.map(p => p.collection).filter(Boolean))).sort((a,b)=>a.localeCompare(b, "ru"));
+const featuredCollections = ["Трендо","Эволаб","Сильвер","Кармина","Кредор","Леолаб","Платинум"].filter(c=>collections.includes(c));
+const collectionCaptions:Record<string,string> = {"Трендо":"Современный стиль","Эволаб":"Инновации и комфорт","Сильвер":"Классика надёжности","Кармина":"Элегантность в деталях","Кредор":"Премиальная защита","Леолаб":"Стиль и технологии","Платинум":"Премиум-коллекция"};
+const fmt = (n:number) => new Intl.NumberFormat("ru-RU").format(n) + " ₽";
+const cheapestPanel = panelData.slice().sort((a,b)=>a.sourcePrice-b.sourcePrice)[0];
+const storeEmail = process.env.NEXT_PUBLIC_STORE_EMAIL || "";
+const storePhone = process.env.NEXT_PUBLIC_STORE_PHONE || "";
+
+export default function Home() {
+  const [query,setQuery] = useState("");
+  const [collection,setCollection] = useState("Все коллекции");
+  const [showPanels,setShowPanels] = useState(false);
+  const [selectedPanel,setSelectedPanel] = useState(cheapestPanel?.id || "");
+  const [cart,setCart] = useState<{product:Product; panel?:Panel}[]>([]);
+  const [cartOpen,setCartOpen] = useState(false);
+  const [active,setActive] = useState<Product|null>(null);
+  const [mobileMenu,setMobileMenu] = useState(false);
+  const [favorites,setFavorites] = useState<string[]>([]);
+  const filtered = useMemo(()=>products.filter(p=>{
+    const q=query.toLowerCase().trim();
+    return (!q || p.name.toLowerCase().includes(q) || p.collection.toLowerCase().includes(q)) &&
+      (collection==="Все коллекции" || p.collection===collection);
+  }),[query,collection]);
+  const getPrice = (p:Product, panel?:Panel) => {
+    if (p.panelRequired.toLowerCase().includes("да") && panel) return Math.ceil(((p.sourcePrice||0)+panel.sourcePrice)*1.25/100)*100;
+    return p.price;
+  };
+  const addCart = (p:Product, panel?:Panel) => { setCart(c=>[...c,{product:p,panel}]); setActive(null); setCartOpen(true); };
+  const cartTotal = cart.reduce((s,x)=>s+getPrice(x.product,x.panel),0);
+  const chooseProduct = (p:Product) => { setActive(p); setSelectedPanel(cheapestPanel?.id || ""); };
+  const activeNeedsPanel = active?.panelRequired.toLowerCase().includes("да") ?? false;
+  const activePanel = panelData.find(p=>p.id===selectedPanel);
+  return <main>
+    <div className="topline"><div className="container toplineInner"><span>Подбор входных дверей «Лабиринт»</span><span>Ежедневно · консультации по телефону</span></div></div>
+    <header className="header"><div className="container headerMain">
+      <button className="mobileToggle iconButton" onClick={()=>setMobileMenu(!mobileMenu)} aria-label="Меню"><Menu/></button>
+      <a className="brand" href="#"><Image src="/images/logo-dekor-prestizh.jpg" alt="ДекорПрестиж" width={270} height={67} priority /></a>
+      <label className="search"><Search size={18}/><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Поиск по моделям, коллекциям, отделкам..." /></label>
+      <div className="headerContact"><Phone size={17}/><div><b>{storePhone || "Консультация по дверям"}</b><small>{storePhone ? "Позвоните для уточнения" : "Телефон указывается перед запуском"}</small></div></div>
+      <button className="iconButton" aria-label="Избранное"><Heart/></button>
+      <button className="iconButton cartButton" onClick={()=>setCartOpen(true)} aria-label="Корзина"><ShoppingBag/><span>{cart.length}</span></button>
+    </div>
+    <div className={`navWrap ${mobileMenu?"navOpen":""}`}><div className="container nav">
+      <a className="catalogButton" href="#catalog"><Menu size={18}/> Каталог дверей</a>
+      <a href="#collections">Коллекции</a><a href="#panels">Внутренние панели</a><a href="#advantages">О компании</a><a href="#delivery">Доставка и установка</a><a href="#contacts">Контакты</a>
+    </div></div></header>
+    <section className="hero">
+      <div className="heroImage" role="img" aria-label="Современная входная дверь в интерьере"/>
+      <div className="heroShade"/>
+      <div className="container heroContent"><p className="eyebrow">ВХОДНЫЕ ДВЕРИ «ЛАБИРИНТ»</p><h1>Стиль. Безопасность.<br/>Надёжность.</h1>
+        <p className="heroText">Подберите входную дверь, отделку и комплектацию для вашего дома. Поможем разобраться в моделях и вариантах панелей. Баннер — визуализация стиля магазина.</p>
+        <div className="heroActions"><a className="button buttonLight" href="#catalog">Перейти в каталог <ArrowRight size={17}/></a><a className="button buttonOutline" href="#contacts">Получить консультацию</a></div>
+        <div className="heroBenefits"><span><ShieldCheck/>Гарантия качества</span><span><Truck/>Доставка и установка</span><span><Wrench/>Профессиональный монтаж</span></div>
       </div>
       <div className="heroTag"><small>КОЛЛЕКЦИЯ</small><strong>Трендо</strong><span>Современный дизайн<br/>для вашего дома</span></div>
     </section>
