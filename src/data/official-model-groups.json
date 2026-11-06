@@ -1346,6 +1346,17 @@
     "collection": "Входные двери Лабиринт Атлантик",
     "variants": [
       {
+        "name": "Входная дверь Атлантик 01 - Беленый дуб, стекло черное",
+        "url": "https://labirintdoors.ru/labirint-atlantic-01-bd",
+        "sourcePrice": 55100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/254/6638254/original/labirint-atlantic-01-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 01 - Белое дерево, стекло черное",
         "url": "https://labirintdoors.ru/labirint-atlantic-01-beloederevo",
         "sourcePrice": 54300,
@@ -1357,12 +1368,34 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 01 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-atlantic-01-venge",
+        "sourcePrice": 54300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/255/6638255/original/labirint-atlantic-01-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 01 - Сандал белый, стекло белое",
         "url": "https://labirintdoors.ru/labirint-atlantic-01-sandal",
         "sourcePrice": 54300,
         "officialImage": "https://labirintdoors.ru/images/006/469/499/6469499/200x/labirint-atlantic-01-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Атлантик",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 02 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-atlantic-02-venge",
+        "sourcePrice": 54300,
+        "officialImage": "https://labirintdoors.ru/images/006/651/978/6651978/original/labirint-atlantic-02-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1390,6 +1423,17 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 03 - Капучино",
+        "url": "https://labirintdoors.ru/labirint-atlantic-03-krem",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/256/6638256/original/labirint-atlantic-03-krem.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 03 - Орех бренди",
         "url": "https://labirintdoors.ru/labirint-atlantic-03-brendi",
         "sourcePrice": 52500,
@@ -1401,12 +1445,122 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 03 - Орех премиум",
+        "url": "https://labirintdoors.ru/labirint-atlantic-03-premium",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/253/6638253/original/labirint-atlantic-03-premium.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 03 - Сандал белый",
         "url": "https://labirintdoors.ru/labirint-atlantic-03-sandal",
         "sourcePrice": 52500,
         "officialImage": "https://labirintdoors.ru/images/006/468/164/6468164/200x/labirint-atlantic-03-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Атлантик",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 04 - Беленый дуб",
+        "url": "https://labirintdoors.ru/labirint-atlantic-04-bd",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/257/6638257/original/labirint-atlantic-04-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 04 - Венге",
+        "url": "https://labirintdoors.ru/labirint-atlantic-04-venge",
+        "sourcePrice": 52500,
+        "officialImage": "https://labirintdoors.ru/images/006/638/258/6638258/original/labirint-atlantic-04-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 05 - Венге светлый",
+        "url": "https://labirintdoors.ru/labirint-atlantic-05-vengesvetly",
+        "sourcePrice": 52100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/260/6638260/original/labirint-atlantic-05-vengesvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 05 - Ясень светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-atlantik-05-yasen-svetlyy",
+        "sourcePrice": 52100,
+        "officialImage": "https://labirintdoors.ru/images/011/952/954/11952954/original/labirint-atlantic-05-yasensvetl_1.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 05 - Ясень темный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-atlantik-05-yasen-temnyy",
+        "sourcePrice": 52100,
+        "officialImage": "https://labirintdoors.ru/images/011/952/955/11952955/original/labirint-atlantic-05-yasentemn_1.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 06 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-atlantic-06-beloederevo",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/266/6638266/original/labirint-atlantic-06-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 06 - Сандал белый",
+        "url": "https://labirintdoors.ru/labirint-atlantic-06-sandal",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/264/6638264/original/labirint-atlantic-06-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 06 - Сандал серый",
+        "url": "https://labirintdoors.ru/labirint-atlantic-06-grey",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/265/6638265/original/labirint-atlantic-06-sandalgrey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 07 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-atlantic-07-beloederevo",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/267/6638267/original/labirint-atlantic-07-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1434,12 +1588,78 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 10 - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-atlantik-10-belyy-relief-soft",
+        "sourcePrice": 54700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/957/11952957/original/labirint-atlantic-10-beliyreliefsoft_1.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 10 - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-atlantik-10-seryy-relief-soft",
+        "sourcePrice": 54700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/961/11952961/original/labirint-atlantic-10-seriyreliefsoft_1.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 11 - Белый софт",
         "url": "https://labirintdoors.ru/labirint-atlantic-11-white",
         "sourcePrice": 53300,
         "officialImage": "https://labirintdoors.ru/images/006/468/157/6468157/200x/labirint-atlantic-11-white.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Атлантик",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 11 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-11-graphite",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/262/6638262/original/labirint-atlantic-11-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 12 - Беленый дуб",
+        "url": "https://labirintdoors.ru/labirint-atlantic-12-bd",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/272/6638272/original/labirint-atlantic-12-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 12 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-atlantic-12-beloederevo",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/276/6638276/original/labirint-atlantic-12-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 12 - Венге",
+        "url": "https://labirintdoors.ru/labirint-atlantic-12-venge",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/278/6638278/original/labirint-atlantic-12-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1456,12 +1676,67 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 13 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-13-graphite",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/263/6638263/original/labirint-atlantic-13-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 13 - Грей софт",
         "url": "https://labirintdoors.ru/labirint-atlantic-13-grey",
         "sourcePrice": 53300,
         "officialImage": "https://labirintdoors.ru/images/006/469/485/6469485/200x/labirint-atlantic-13-grey.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Атлантик",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 14 - Дуб кантри белый горизонтальный",
+        "url": "https://labirintdoors.ru/labirint-atlantic-14-dubkantri",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/281/6638281/original/labirint-atlantic-14-dubkantriwhite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 14 - Эковенге",
+        "url": "https://labirintdoors.ru/labirint-atlantic-14-ecovenge",
+        "sourcePrice": 53300,
+        "officialImage": "https://labirintdoors.ru/images/006/638/283/6638283/original/labirint-atlantic-14-ecovenge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 15 - Алмон 25 (Винорит)",
+        "url": "https://labirintdoors.ru/labirint-atlantic-15-almon25",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/290/6638290/original/labirint-atlantic-15-almon25.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 17 - Золотой дуб (Винорит)",
+        "url": "https://labirintdoors.ru/labirint-atlantic-17-goldenoak",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/638/292/6638292/original/labirint-atlantic-17-goldenoak.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1522,6 +1797,83 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 23 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-23-white",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/469/516/6469516/original/labirint-atlantic-23-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 23 - Ванилла веллюто",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-atlantik-23-vanilla-vellyuto",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/011/936/156/11936156/original/labirint-atlantic-23-vanillavelluto.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 24 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-24-white",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/469/507/6469507/original/labirint-atlantic-24-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 24 - Бетон светлый",
+        "url": "https://labirintdoors.ru/labirint-atlantic-24-beton",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/469/513/6469513/original/labirint-atlantic-24-betonsvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 24 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-24-graphite",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/006/469/506/6469506/original/labirint-atlantic-24-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 25 - Белый софт, черный молдинг",
+        "url": "https://labirintdoors.ru/labirint-atlantic-25-white",
+        "sourcePrice": 54700,
+        "officialImage": "https://labirintdoors.ru/images/006/469/515/6469515/original/labirint-atlantic-25-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 25 - Бетон светлый, черный молдинг",
+        "url": "https://labirintdoors.ru/labirint-atlantic-25-beton",
+        "sourcePrice": 54700,
+        "officialImage": "https://labirintdoors.ru/images/006/469/514/6469514/original/labirint-atlantic-25-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 26 - Эмаль RAL 9003",
         "url": "https://labirintdoors.ru/labirint-atlantic-26-ral9003",
         "sourcePrice": 59700,
@@ -1544,6 +1896,17 @@
         ]
       },
       {
+        "name": "Входная дверь Атлантик 28 - Грунт под покраску",
+        "url": "https://labirintdoors.ru/labirint-atlantic-28",
+        "sourcePrice": 57500,
+        "officialImage": "https://labirintdoors.ru/images/006/583/991/6583991/original/labirint-atlantic-28-podpokrasky.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
         "name": "Входная дверь Атлантик 29 - Белый рельеф софт",
         "url": "https://labirintdoors.ru/labirint-atlantic-29-white-relief",
         "sourcePrice": 53300,
@@ -1561,6 +1924,17 @@
         "officialImage": "https://labirintdoors.ru/images/009/598/739/9598739/200x/labirint-atlantic-shagren-29-dubkantri.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Атлантик",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 29 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-atlantik-29-kapuchino",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/011/952/964/11952964/original/labirint-atlantic-29-capuchino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1605,6 +1979,28 @@
         "officialImage": "https://labirintdoors.ru/images/008/556/369/8556369/200x/labirint-atlantic-30-grey.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Атлантик",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 31 - Белый софт, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/labirint-atlantic-31-white",
+        "sourcePrice": 55100,
+        "officialImage": "https://labirintdoors.ru/images/009/598/740/9598740/original/labirint-atlantic-shagren-31-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик 31 - Черный кварц, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/labirint-atlantic-31-kvarz",
+        "sourcePrice": 55100,
+        "officialImage": "https://labirintdoors.ru/images/009/598/742/9598742/original/labirint-atlantic-shagren-31-kvarz.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1667,6 +2063,28 @@
         "officialImage": "https://labirintdoors.ru/images/006/469/493/6469493/200x/labirint-atlantic-18-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик с Зеркалом 19 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-19-white",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/638/297/6638297/original/labirint-atlantic-19-zerkalo-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик с Зеркалом 19 - Грей софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-19-grey",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/638/294/6638294/original/labirint-atlantic-19-zerkalo-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -1743,6 +2161,17 @@
         "officialImage": "https://labirintdoors.ru/images/006/468/181/6468181/200x/labirint-atlantic-maxi-betonsvetly.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик с зеркалом Максимум - Венге",
+        "url": "https://labirintdoors.ru/labirint-atlantic-maxi-venge",
+        "sourcePrice": 56700,
+        "officialImage": "https://labirintdoors.ru/images/006/469/518/6469518/original/labirint-atlantic-maxi-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Атлантик"
         ]
@@ -11278,12 +11707,67 @@
     "collection": "Входные двери Лабиринт Лайн Вайт",
     "variants": [
       {
+        "name": "Входная дверь Лайн Вайт 01 - Беленый дуб, стекло черное",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-01-belenyy-dub-steklo-chernoe",
+        "sourcePrice": 42700,
+        "officialImage": "https://labirintdoors.ru/images/012/429/793/12429793/original/Line-white-01-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
         "name": "Входная дверь Лайн Вайт 01 - Белое дерево, стекло черное",
         "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-01-beloederevo",
         "sourcePrice": 42700,
         "officialImage": "https://labirintdoors.ru/images/006/567/427/6567427/200x/labirint-linewhite-01-beloederevo.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 01 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-01-venge-steklo-beloe",
+        "sourcePrice": 41900,
+        "officialImage": "https://labirintdoors.ru/images/012/429/796/12429796/original/Line-white-01-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 01 - Сандал белый, стекло белое",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-01-sandal-belyy-steklo-beloe",
+        "sourcePrice": 42700,
+        "officialImage": "https://labirintdoors.ru/images/012/429/792/12429792/original/Line-white-01-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 02 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-02-venge-steklo-beloe",
+        "sourcePrice": 41900,
+        "officialImage": "https://labirintdoors.ru/images/012/429/798/12429798/original/Line-white-02-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 02 - Сандал белый, стекло черное",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-02-sandal-belyy-steklo-chernoe",
+        "sourcePrice": 42700,
+        "officialImage": "https://labirintdoors.ru/images/012/429/797/12429797/original/Line-white-02-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11300,12 +11784,100 @@
         ]
       },
       {
+        "name": "Входная дверь Лайн Вайт 03 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-03-kapuchino",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/429/799/12429799/original/Line-white-03-kremsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 03 - Орех бренди",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-03-oreh-brendi",
+        "sourcePrice": 40900,
+        "officialImage": "https://labirintdoors.ru/images/012/429/842/12429842/original/Line-white-03-brendiorex.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 03 - Орех премиум",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-03-oreh-premium",
+        "sourcePrice": 40900,
+        "officialImage": "https://labirintdoors.ru/images/012/429/847/12429847/original/Line-white-03-premiumorex.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
         "name": "Входная дверь Лайн Вайт 03 - Сандал белый",
         "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-03-sandal-belyy",
         "sourcePrice": 40900,
         "officialImage": "https://labirintdoors.ru/images/012/429/833/12429833/200x/Line-white-03-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 04 - Беленый дуб",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-04-belenyy-dub",
+        "sourcePrice": 40900,
+        "officialImage": "https://labirintdoors.ru/images/012/429/860/12429860/original/Line-white-04-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 04 - Венге",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-04-venge",
+        "sourcePrice": 40100,
+        "officialImage": "https://labirintdoors.ru/images/012/429/865/12429865/original/Line-white-04-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 05 - Венге светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-05-venge-svetlyy",
+        "sourcePrice": 39700,
+        "officialImage": "https://labirintdoors.ru/images/012/430/097/12430097/original/Line-white-05-svetlyvenge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 05 - Ясень светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-05-yasen-svetlyy",
+        "sourcePrice": 39700,
+        "officialImage": "https://labirintdoors.ru/images/011/949/048/11949048/original/labirint-linewhite-05-yasensvetl.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 05 - Ясень темный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-05-yasen-temnyy",
+        "sourcePrice": 39700,
+        "officialImage": "https://labirintdoors.ru/images/011/949/050/11949050/original/labirint-linewhite-05-yasentemn.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11355,12 +11927,100 @@
         ]
       },
       {
+        "name": "Входная дверь Лайн Вайт 09 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-09-belyy-soft",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/454/346/12454346/original/labirint-linewhite-09-beliy-soft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 09 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-09-kapuchino",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/454/348/12454348/original/labirint-linewhite-09-cappuccino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 10 - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-10-belyy-relief-soft",
+        "sourcePrice": 42300,
+        "officialImage": "https://labirintdoors.ru/images/011/949/052/11949052/original/labirint-linewhite-10-beliyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 10 - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-10-seryy-relief-soft",
+        "sourcePrice": 42300,
+        "officialImage": "https://labirintdoors.ru/images/011/949/057/11949057/original/labirint-linewhite-10-seriyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 11 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-11-belyy-soft",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/430/117/12430117/original/Line-white-11-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 11 - Графит софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-11-grafit-soft",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/430/128/12430128/original/Line-white-11-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 12 - Беленый дуб",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-12-belenyy-dub",
+        "sourcePrice": 40900,
+        "officialImage": "https://labirintdoors.ru/images/012/430/142/12430142/original/Line-white-12-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
         "name": "Входная дверь Лайн Вайт 12 - Белое дерево",
         "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-12-beloe",
         "sourcePrice": 40900,
         "officialImage": "https://labirintdoors.ru/images/005/265/627/5265627/200x/Line-white-12-beloederevo.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 12 - Венге",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-12-venge",
+        "sourcePrice": 40900,
+        "officialImage": "https://labirintdoors.ru/images/012/430/143/12430143/original/Line-white-12-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11377,12 +12037,67 @@
         ]
       },
       {
+        "name": "Входная дверь Лайн Вайт 13 - Графит софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-13-graphit",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/005/981/358/5981358/original/Line-white-13-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 13 - Грей софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-grey-13-soft",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/005/265/672/5265672/original/Line-white-13-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
         "name": "Входная дверь Лайн Вайт 14 - Дуб кантри белый горизонтальный",
         "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-14-kantri",
         "sourcePrice": 40900,
         "officialImage": "https://labirintdoors.ru/images/005/265/675/5265675/200x/Line-white-14-dubkantriwhite.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 14 - Эковенге поперечный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-14-ekovenge-poperechnyy",
+        "sourcePrice": 40900,
+        "officialImage": "https://labirintdoors.ru/images/012/430/131/12430131/original/Line-white-14-ecovenge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 15 - Алмон 25",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-15-almon25",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/005/265/686/5265686/original/Line-white-15-almon15.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 17 - Золотой дуб",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-17-golden",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/005/265/679/5265679/original/Line-white-17-golden.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11427,6 +12142,17 @@
         "officialImage": "https://labirintdoors.ru/images/005/765/978/5765978/200x/Line-white-22-white.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 22 - Графит софт, черная вставка",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-22-graphite",
+        "sourcePrice": 42300,
+        "officialImage": "https://labirintdoors.ru/images/005/765/985/5765985/original/Line-white-22-graphit.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11531,6 +12257,17 @@
         ]
       },
       {
+        "name": "Входная дверь Лайн Вайт 28 - Грунт под покраску",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-linewhite-28",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/006/583/994/6583994/original/labirint-linewhite-28-podpokrasky.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
         "name": "Входная дверь Лайн Вайт 29 - Белый рельеф софт",
         "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-29-white-relief",
         "sourcePrice": 41700,
@@ -11548,6 +12285,17 @@
         "officialImage": "https://labirintdoors.ru/images/009/598/535/9598535/200x/labirint-linewhite-29-dubkantri.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 29 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-29-kapuchino",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/011/949/066/11949066/original/labirint-linewhite-29-capucino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11592,6 +12340,50 @@
         "officialImage": "https://labirintdoors.ru/images/008/978/728/8978728/200x/Line-white-30-grey.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 31 - Белый софт, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-31-white",
+        "sourcePrice": 42700,
+        "officialImage": "https://labirintdoors.ru/images/009/598/537/9598537/original/labirint-linewhite-31-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 31 - Черный кварц, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-31-kvarz",
+        "sourcePrice": 42700,
+        "officialImage": "https://labirintdoors.ru/images/009/598/553/9598553/original/labirint-linewhite-31-kvarz.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 33 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-33-belyy-soft",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/454/324/12454324/original/labirint-linewhite-33-beliy-soft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт 33 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-33-kapuchino",
+        "sourcePrice": 41700,
+        "officialImage": "https://labirintdoors.ru/images/012/454/341/12454341/original/labirint-linewhite-33-cappuccino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -11683,6 +12475,17 @@
         "officialImage": "https://labirintdoors.ru/images/005/377/852/5377852/200x/Line-white-zerkalo-beton.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт с зеркалом Максимум - Венге",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-s-zerkalom-maksimum-venge",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/012/430/152/12430152/original/Line-white-zerkalo-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лайн Вайт"
         ]
@@ -12256,6 +13059,17 @@
     "collection": "Входные двери Лабиринт Лондон",
     "variants": [
       {
+        "name": "Входная дверь Лондон 01 - Беленый дуб, стекло черное",
+        "url": "https://labirintdoors.ru/labirint-london-01-bd",
+        "sourcePrice": 56700,
+        "officialImage": "https://labirintdoors.ru/images/005/812/796/5812796/original/london-01-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
         "name": "Входная дверь Лондон 01 - Белое дерево, стекло черное",
         "url": "https://labirintdoors.ru/labirint-london-01-beloederevo",
         "sourcePrice": 56700,
@@ -12267,12 +13081,45 @@
         ]
       },
       {
+        "name": "Входная дверь Лондон 01 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-london-01-venge",
+        "sourcePrice": 55900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/798/5812798/original/london-01-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
         "name": "Входная дверь Лондон 01 - Сандал белый, стекло белое",
         "url": "https://labirintdoors.ru/labirint-london-01-sandal",
         "sourcePrice": 55900,
         "officialImage": "https://labirintdoors.ru/images/005/812/779/5812779/200x/london-01-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Лондон Термо",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 02 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-london-02-venge",
+        "sourcePrice": 55900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/802/5812802/original/london-02-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 02 - Сандал белый, стекло черное",
+        "url": "https://labirintdoors.ru/labirint-london-02-sandal",
+        "sourcePrice": 56700,
+        "officialImage": "https://labirintdoors.ru/images/005/812/800/5812800/original/london-02-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лондон"
         ]
@@ -12317,6 +13164,149 @@
         "officialImage": "https://labirintdoors.ru/images/005/811/449/5811449/200x/london-03-premium.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Лондон Термо",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 04 - Беленый дуб",
+        "url": "https://labirintdoors.ru/labirint-london-04bd",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/923/5812923/original/london-04-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 04 - Венге",
+        "url": "https://labirintdoors.ru/labirint-london-04-venge",
+        "sourcePrice": 54100,
+        "officialImage": "https://labirintdoors.ru/images/005/812/924/5812924/original/london-04-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 05 - Венге светлый",
+        "url": "https://labirintdoors.ru/labirint-london-05-vengesvetly",
+        "sourcePrice": 53700,
+        "officialImage": "https://labirintdoors.ru/images/005/812/929/5812929/original/london-05-vengesvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 05 - Ясень светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-05-yasen-svetlyy",
+        "sourcePrice": 53700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/848/11952848/original/labirint-london-05-yasensvetl.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 05 - Ясень темный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-05-yasen-temnyy",
+        "sourcePrice": 53700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/855/11952855/original/labirint-london-05-yasentemn.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 06 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-london-06-beloederevo",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/901/5812901/original/london-06-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 06 - Сандал белый",
+        "url": "https://labirintdoors.ru/labirint-london-06-sandal",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/908/5812908/original/london-06-sandalbeliy.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 06 - Сандал серый",
+        "url": "https://labirintdoors.ru/labirint-london-06-grey",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/912/5812912/original/london-06-sandalgrey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 07 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-london-07",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/916/5812916/original/london-07-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 09 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-09-belyy-soft",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/012/456/632/12456632/original/labirint-london-09-beliy-soft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 09 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-09-kapuchino",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/012/456/639/12456639/original/labirint-london-09-cappuccino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 10 - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-10-belyy-relief-soft",
+        "sourcePrice": 56300,
+        "officialImage": "https://labirintdoors.ru/images/011/952/859/11952859/original/labirint-london-10-beliyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 10 - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-10-seryy-relief-soft",
+        "sourcePrice": 56300,
+        "officialImage": "https://labirintdoors.ru/images/011/952/864/11952864/original/labirint-london-10-seriyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лондон"
         ]
@@ -12410,6 +13400,28 @@
         ]
       },
       {
+        "name": "Входная дверь Лондон 14 - Дуб кантри белый горизонтальный",
+        "url": "https://labirintdoors.ru/labirint-london-14-dubkantri",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/878/5812878/original/london-14-dubkantri.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 14 - Эковенге поперечный",
+        "url": "https://labirintdoors.ru/labirint-london-14-ecovenge",
+        "sourcePrice": 54900,
+        "officialImage": "https://labirintdoors.ru/images/005/812/879/5812879/original/london-14-ecovenge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
         "name": "Входная дверь Лондон 15 - Алмон 25",
         "url": "https://labirintdoors.ru/labirint-london-15",
         "sourcePrice": 55700,
@@ -12427,6 +13439,138 @@
         "officialImage": "https://labirintdoors.ru/images/005/812/732/5812732/200x/london-17-goldenoak.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Лондон Термо",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 21 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-london-21-white",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/567/542/6567542/original/labirint-london-21-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 21 - Бетон светлый",
+        "url": "https://labirintdoors.ru/labirint-london-21",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/005/812/817/5812817/original/london-21-betonsvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 21 - Грей софт",
+        "url": "https://labirintdoors.ru/labirint-london-21-grey",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/567/543/6567543/original/labirint-london-21-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 22 - Белый софт, черная вставка",
+        "url": "https://labirintdoors.ru/labirint-london-22-white",
+        "sourcePrice": 56300,
+        "officialImage": "https://labirintdoors.ru/images/005/812/843/5812843/original/london-22-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 22 - Графит софт, черная вставка",
+        "url": "https://labirintdoors.ru/labirint-london-22-graphite",
+        "sourcePrice": 56300,
+        "officialImage": "https://labirintdoors.ru/images/005/812/862/5812862/original/london-22-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 23 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-london-23-white",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/042/378/6042378/original/london-23-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 23 - Ванилла веллюто",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-23-vanilla-vellyuto",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/011/936/173/11936173/original/labirint-london-23-vanillavelluto.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 24 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-london-24-white",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/260/543/6260543/original/london-24-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 24 - Бетон светлый",
+        "url": "https://labirintdoors.ru/labirint-london-24-betonsvetly",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/260/545/6260545/original/london-24-betonsvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 24 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-london-24-graphite",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/006/260/544/6260544/original/london-24-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 25 - Белый софт, черный молдинг",
+        "url": "https://labirintdoors.ru/labirint-london-25-white",
+        "sourcePrice": 56300,
+        "officialImage": "https://labirintdoors.ru/images/006/567/544/6567544/original/labirint-london-25-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 25 - Бетон светлый, черный молдинг",
+        "url": "https://labirintdoors.ru/labirint-london-25-beton",
+        "sourcePrice": 56300,
+        "officialImage": "https://labirintdoors.ru/images/006/567/545/6567545/original/labirint-london-25-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лондон"
         ]
@@ -12487,6 +13631,17 @@
         ]
       },
       {
+        "name": "Входная дверь Лондон 29 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-29-kapuchino",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/866/11952866/original/labirint-london-29-capuchino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
         "name": "Входная дверь Лондон 29 - Серый рельеф софт",
         "url": "https://labirintdoors.ru/labirint-london-29-grey-relief",
         "sourcePrice": 54900,
@@ -12526,6 +13681,50 @@
         "officialImage": "https://labirintdoors.ru/images/008/556/383/8556383/200x/london-30-grey.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Подтверждено в официальном каталоге Лондон Термо",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 31 - Белый софт, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/labirint-london-31-white",
+        "sourcePrice": 56700,
+        "officialImage": "https://labirintdoors.ru/images/009/598/831/9598831/original/labirint-london-31-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 31 - Черный кварц, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/labirint-london-31-kvarz",
+        "sourcePrice": 56700,
+        "officialImage": "https://labirintdoors.ru/images/009/598/832/9598832/original/labirint-london-31-kvarz.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 33 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-33-belyy-soft",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/012/456/623/12456623/original/labirint-london-33-beliy-soft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон 33 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-33-kapuchino",
+        "sourcePrice": 55700,
+        "officialImage": "https://labirintdoors.ru/images/012/456/627/12456627/original/labirint-london-33-cappuccino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лондон"
         ]
@@ -12584,6 +13783,28 @@
         "officialImage": "https://labirintdoors.ru/images/006/567/534/6567534/200x/labirint-london-18-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон с зеркалом 19 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-london-19-white",
+        "sourcePrice": 57300,
+        "officialImage": "https://labirintdoors.ru/images/005/812/785/5812785/original/london-19-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон с зеркалом 19 - Грей софт",
+        "url": "https://labirintdoors.ru/labirint-london-19-grey",
+        "sourcePrice": 57300,
+        "officialImage": "https://labirintdoors.ru/images/005/812/820/5812820/original/london-19-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Лондон"
         ]
@@ -14859,6 +16080,28 @@
         ]
       },
       {
+        "name": "Входная дверь Пазл 05 - Ясень светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-05-yasen-svetlyy",
+        "sourcePrice": 36700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/679/11952679/original/labirint-pazl-05-yasensvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 05 - Ясень темный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-05-yasen-temnyy",
+        "sourcePrice": 36700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/683/11952683/original/labirint-pazl-05-yasentemn.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
         "name": "Входная дверь Пазл 06 - Белое дерево",
         "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-06-beloederevo",
         "sourcePrice": 37900,
@@ -14925,12 +16168,188 @@
         ]
       },
       {
+        "name": "Входная дверь Пазл 10 - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-10-belyy-relief-soft",
+        "sourcePrice": 39300,
+        "officialImage": "https://labirintdoors.ru/images/011/952/689/11952689/original/labirint-pazl-10-beliyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 10 - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-10-seryy-relief-soft",
+        "sourcePrice": 39300,
+        "officialImage": "https://labirintdoors.ru/images/011/952/695/11952695/original/labirint-pazl-10-seriyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
         "name": "Входная дверь Пазл 11 - Белый софт",
         "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-11-white",
         "sourcePrice": 38700,
         "officialImage": "https://labirintdoors.ru/images/006/541/142/6541142/200x/labirint-pazl-11-white.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 11 - Графит софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-11-graphite",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/541/143/6541143/original/labirint-pazl-11-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 12 - Беленый дуб",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-12-bd",
+        "sourcePrice": 37900,
+        "officialImage": "https://labirintdoors.ru/images/006/651/910/6651910/original/labirint-pazl-12-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 12 - Белое дерево",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-12-beloederevo",
+        "sourcePrice": 37900,
+        "officialImage": "https://labirintdoors.ru/images/006/651/911/6651911/original/labirint-pazl-12-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 12 - Венге",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-12-venge",
+        "sourcePrice": 37900,
+        "officialImage": "https://labirintdoors.ru/images/006/651/912/6651912/original/labirint-pazl-12-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 13 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-13-white",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/788/6542788/original/labirint-pazl-13-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 13 - Графит софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-13-graphite",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/792/6542792/original/labirint-pazl-13-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 13 - Грей софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-13-grey",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/789/6542789/original/labirint-pazl-13-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 14 - Дуб кантри белый горизонтальный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-14-white",
+        "sourcePrice": 37900,
+        "officialImage": "https://labirintdoors.ru/images/006/542/798/6542798/original/labirint-pazl-14-dubkantri.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 14 - Эковенге поперечный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-14-ecovenge",
+        "sourcePrice": 37900,
+        "officialImage": "https://labirintdoors.ru/images/006/542/808/6542808/original/labirint-pazl-14-ecovenge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 15 - Алмон 25",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-15-almon25",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/651/899/6651899/original/labirint-pazl-15-almon15.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 17 - Золотой дуб",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-17-golden",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/651/906/6651906/original/labirint-pazl-17-golden.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 21 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-21-white",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/810/6542810/original/labirint-pazl-21-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 21 - Бетон светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-21-beton",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/813/6542813/original/labirint-pazl-21-betonsvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 21 - Грей софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-21-grey",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/811/6542811/original/labirint-pazl-21-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Пазл"
         ]
@@ -14958,6 +16377,116 @@
         ]
       },
       {
+        "name": "Входная дверь Пазл 23 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-23-white",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/840/6542840/original/labirint-pazl-23-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 23 - Ванилла веллюто",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-23-vanilla-vellyuto",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/011/936/192/11936192/original/labirint-pazl-23-vanillavelluto.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 24 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-24-white",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/818/6542818/original/labirint-pazl-24-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 24 - Бетон светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-24-beton",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/828/6542828/original/labirint-pazl-24-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 24 - Графит софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-24-graphite",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/006/542/824/6542824/original/labirint-pazl-24-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 25 - Белый софт, черный молдинг",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-25-white",
+        "sourcePrice": 39300,
+        "officialImage": "https://labirintdoors.ru/images/006/542/847/6542847/original/labirint-pazl-25-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 25 - Бетон светлый, черный молдинг",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-25-beton",
+        "sourcePrice": 39300,
+        "officialImage": "https://labirintdoors.ru/images/006/542/855/6542855/original/labirint-pazl-25-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 26 - Эмаль RAL 9003",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-26-ral9003",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/006/556/371/6556371/original/labirint-pazl-26-ral9003.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 27 - Эмаль RAL 9003",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-27-ral9003",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/006/556/372/6556372/original/labirint-pazl-27-ral9003.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 28 - Грунт под покраску",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-28",
+        "sourcePrice": 42100,
+        "officialImage": "https://labirintdoors.ru/images/006/583/954/6583954/original/labirint-pazl-28-podpokrasky.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
         "name": "Входная дверь Пазл 29 - Белый рельеф софт",
         "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-29-white-relief",
         "sourcePrice": 38700,
@@ -14980,6 +16509,17 @@
         ]
       },
       {
+        "name": "Входная дверь Пазл 29 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-29-kapuchino",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/704/11952704/original/labirint-pazl-29-capucino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
         "name": "Входная дверь Пазл 29 - Серый рельеф софт",
         "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-29-grey-relief",
         "sourcePrice": 38700,
@@ -14997,6 +16537,28 @@
         "officialImage": "https://labirintdoors.ru/images/009/598/220/9598220/200x/labirint-pazl-29-kvarz.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 30 - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-30-white-relief",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/008/534/854/8534854/original/labirint-pazl-30-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл 30 - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-30-grey-relief",
+        "sourcePrice": 38700,
+        "officialImage": "https://labirintdoors.ru/images/008/534/864/8534864/original/labirint-pazl-30-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Пазл"
         ]
@@ -15135,6 +16697,50 @@
         "officialImage": "https://labirintdoors.ru/images/006/543/396/6543396/200x/labirint-pazl-zerkalo-white.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом Максимум - Бетон светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-maxi-beton",
+        "sourcePrice": 41300,
+        "officialImage": "https://labirintdoors.ru/images/006/550/672/6550672/original/labirint-pazl-zerkalo-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом Максимум - Венге",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-maxi-venge",
+        "sourcePrice": 41300,
+        "officialImage": "https://labirintdoors.ru/images/006/556/148/6556148/original/labirint-pazl-zerkalo-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом Максимум - Грей софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-maxi-grey",
+        "sourcePrice": 41300,
+        "officialImage": "https://labirintdoors.ru/images/006/543/398/6543398/original/labirint-pazl-zerkalo-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом Максимум - Сандал белый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-maxi-sandal",
+        "sourcePrice": 41300,
+        "officialImage": "https://labirintdoors.ru/images/006/550/673/6550673/original/labirint-pazl-zerkalo-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Пазл"
         ]
@@ -20791,6 +22397,72 @@
     "collection": "Входные двери Лабиринт Термомагнит",
     "variants": [
       {
+        "name": "Входная дверь Термо Магнит 01 - Беленый дуб, стекло черное",
+        "url": "https://labirintdoors.ru/labirint-termo-01-bd",
+        "sourcePrice": 46100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/240/4766240/original/termomagnit-01-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 01 - Белое дерево, стекло черное",
+        "url": "https://labirintdoors.ru/labirint-termo-01-beloederevo",
+        "sourcePrice": 46100,
+        "officialImage": "https://labirintdoors.ru/images/006/567/561/6567561/original/labirint-termomagnit-01-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 01 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-termo-01-venge",
+        "sourcePrice": 45300,
+        "officialImage": "https://labirintdoors.ru/images/004/766/238/4766238/original/termomagnit-01-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 01 - Сандал белый, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-termo-01-sandal",
+        "sourcePrice": 46100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/239/4766239/original/termomagnit-01-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 02 - Венге, стекло белое",
+        "url": "https://labirintdoors.ru/labirint-termo-02-venge",
+        "sourcePrice": 45300,
+        "officialImage": "https://labirintdoors.ru/images/004/766/241/4766241/original/termomagnit-02-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 02 - Сандал белый, стекло черное",
+        "url": "https://labirintdoors.ru/labirint-termo-02-sandal",
+        "sourcePrice": 46100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/242/4766242/original/termomagnit-02-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
         "name": "Входная дверь Термо Магнит 03 - Белый софт",
         "url": "https://labirintdoors.ru/labirint-termo-03-white",
         "sourcePrice": 45100,
@@ -20846,12 +22518,100 @@
         ]
       },
       {
+        "name": "Входная дверь Термо Магнит 04 - Беленый дуб",
+        "url": "https://labirintdoors.ru/labirint-termo-04-bd",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/791/053/4791053/original/termomagnit-04-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 04 - Венге",
+        "url": "https://labirintdoors.ru/labirint-termo-04-venge",
+        "sourcePrice": 43500,
+        "officialImage": "https://labirintdoors.ru/images/004/791/056/4791056/original/termomagnit-04-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 05 - Венге светлый",
+        "url": "https://labirintdoors.ru/labirint-termo-05-vengesvetly",
+        "sourcePrice": 43100,
+        "officialImage": "https://labirintdoors.ru/images/004/791/059/4791059/original/termomagnit-05-vengesvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 05 - Ясень светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-termo-magnit-05-yasen-svetlyy",
+        "sourcePrice": 43100,
+        "officialImage": "https://labirintdoors.ru/images/011/952/812/11952812/original/termomagnit-05-yasensvetl.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 05 - Ясень темный",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-termo-magnit-05-yasen-temnyy",
+        "sourcePrice": 43100,
+        "officialImage": "https://labirintdoors.ru/images/011/952/814/11952814/original/termomagnit-05-yasentemn.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 06 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-termo-06-beloederevo",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/791/069/4791069/original/termomagnit-06-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
         "name": "Входная дверь Термо Магнит 06 - Сандал белый",
         "url": "https://labirintdoors.ru/labirint-termo-06-sandalwhite",
         "sourcePrice": 44300,
         "officialImage": "https://labirintdoors.ru/images/004/867/331/4867331/200x/termomagnit-06-sandal.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 06 - Сандал серый",
+        "url": "https://labirintdoors.ru/labirint-termo-06-sandalgrey",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/791/070/4791070/original/termomagnit-06-sandalgrey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 07 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-termo-07-white",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/791/071/4791071/original/termomagnit-07-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Термомагнит"
         ]
@@ -20879,6 +22639,138 @@
         ]
       },
       {
+        "name": "Входная дверь Термо Магнит 10 - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-termo-magnit-10-belyy-relief-soft",
+        "sourcePrice": 45700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/818/11952818/original/termomagnit-10-beliyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 10 - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-termo-magnit-10-seryy-relief-soft",
+        "sourcePrice": 45700,
+        "officialImage": "https://labirintdoors.ru/images/011/952/838/11952838/original/termomagnit-10-seriyreliefsoft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 11 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-termo-11-white",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/243/4766243/original/termomagnit-11-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 11 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-termo-11-graphit",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/244/4766244/original/termomagnit-11-graphit.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 12 - Беленый дуб",
+        "url": "https://labirintdoors.ru/labirint-termo-12-bd",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/766/247/4766247/original/termomagnit-12-bd.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 12 - Белое дерево",
+        "url": "https://labirintdoors.ru/labirint-termo-12-beloederevo",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/766/250/4766250/original/termomagnit-12-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 12 - Венге",
+        "url": "https://labirintdoors.ru/labirint-termo-12-venge",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/766/252/4766252/original/termomagnit-12-venge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 13 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-termo-13-white",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/245/4766245/original/termomagnit-13-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 13 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-termo-13-graphite",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/005/981/344/5981344/original/termomagnit-13-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 13 - Грей софт",
+        "url": "https://labirintdoors.ru/labirint-termo-13-grey",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/004/766/246/4766246/original/termomagnit-13-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 14 - Дуб кантри белый горизонтальный",
+        "url": "https://labirintdoors.ru/labirint-termo-14-dubkantri",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/792/013/4792013/original/termomagnit-14-dubwhite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 14 - Эковенге",
+        "url": "https://labirintdoors.ru/labirint-termo-14-ecovenge",
+        "sourcePrice": 44300,
+        "officialImage": "https://labirintdoors.ru/images/004/792/008/4792008/original/termomagnit-14-ecovenge.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
         "name": "Входная дверь Термо Магнит 15 - Алмон 25",
         "url": "https://labirintdoors.ru/labirint-termo",
         "sourcePrice": 45100,
@@ -20901,6 +22793,61 @@
         ]
       },
       {
+        "name": "Входная дверь Термо Магнит 21 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-termo-21-white",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/006/567/559/6567559/original/labirint-termomagnit-21-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 21 - Бетон светлый",
+        "url": "https://labirintdoors.ru/labirint-termo-21-beton",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/005/377/880/5377880/original/termomagnit-21-betonsvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 21 - Грей софт",
+        "url": "https://labirintdoors.ru/labirint-termo-21-grey",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/006/567/560/6567560/original/labirint-termomagnit-21-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 22 - Белый софт, черная вставка",
+        "url": "https://labirintdoors.ru/labirint-termo-22-white",
+        "sourcePrice": 45700,
+        "officialImage": "https://labirintdoors.ru/images/006/378/444/6378444/original/termomagnit-22-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 22 - Графит софт, черная вставка",
+        "url": "https://labirintdoors.ru/labirint-termo-22-graphit",
+        "sourcePrice": 45700,
+        "officialImage": "https://labirintdoors.ru/images/006/378/442/6378442/original/termomagnit-22-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
         "name": "Входная дверь Термо Магнит 23 - Белый софт",
         "url": "https://labirintdoors.ru/labirint-termo-23-white",
         "sourcePrice": 45100,
@@ -20918,6 +22865,83 @@
         "officialImage": "https://labirintdoors.ru/images/011/936/202/11936202/200x/labirint-termomagnit-23-vanillavelluto.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Цена подтверждена в JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 24 - Белый софт",
+        "url": "https://labirintdoors.ru/labirint-termo-24-white",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/006/022/000/6022000/original/termomagnit-24-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 24 - Бетон светлый",
+        "url": "https://labirintdoors.ru/labirint-termo-24-beton",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/006/022/001/6022001/original/termomagnit-24-betonsvetly.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 24 - Графит софт",
+        "url": "https://labirintdoors.ru/labirint-termo-24-graphit",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/006/022/002/6022002/original/termomagnit-24-graphite.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 25 - Белый софт, черный молдинг",
+        "url": "https://labirintdoors.ru/labirint-termo-25-white",
+        "sourcePrice": 45700,
+        "officialImage": "https://labirintdoors.ru/images/006/567/562/6567562/original/labirint-termomagnit-25-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 25 - Бетон светлый, черный молдинг",
+        "url": "https://labirintdoors.ru/labirint-termo-25-beton",
+        "sourcePrice": 45700,
+        "officialImage": "https://labirintdoors.ru/images/006/567/564/6567564/original/labirint-termomagnit-25-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 26 - Эмаль RAL 9003",
+        "url": "https://labirintdoors.ru/labirint-termo-26",
+        "sourcePrice": 50700,
+        "officialImage": "https://labirintdoors.ru/images/006/517/911/6517911/original/labirint-termomagnit-26-ral9003.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 27 - Эмаль RAL 9003",
+        "url": "https://labirintdoors.ru/labirint-termo-27",
+        "sourcePrice": 50700,
+        "officialImage": "https://labirintdoors.ru/images/006/517/914/6517914/original/labirint-termomagnit-27-ral9003.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Термомагнит"
         ]
@@ -20951,6 +22975,17 @@
         "officialImage": "https://labirintdoors.ru/images/009/598/767/9598767/200x/labirint-termomagnit-29-dubkantri.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 29 - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-termo-magnit-29-kapuchino",
+        "sourcePrice": 45100,
+        "officialImage": "https://labirintdoors.ru/images/011/952/840/11952840/original/termomagnit-29-capuchino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Термомагнит"
         ]
@@ -20995,6 +23030,28 @@
         "officialImage": "https://labirintdoors.ru/images/008/556/014/8556014/200x/termomagnit-30-grey.jpg",
         "imageStatus": "Найдено og:image официальной карточки; права на использование требуют проверки",
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 31 - Белый софт, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/labirint-termo-31-white",
+        "sourcePrice": 46100,
+        "officialImage": "https://labirintdoors.ru/images/009/598/769/9598769/original/labirint-termomagnit-31-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Термомагнит"
+        ]
+      },
+      {
+        "name": "Входная дверь Термо Магнит 31 - Черный кварц, зеркальная вставка с тонировкой",
+        "url": "https://labirintdoors.ru/labirint-termo-31-kvarz",
+        "sourcePrice": 46100,
+        "officialImage": "https://labirintdoors.ru/images/009/598/779/9598779/original/labirint-termomagnit-31-kvarz.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
         "collections": [
           "Входные двери Лабиринт Термомагнит"
         ]
@@ -24820,6 +26877,256 @@
         "priceStatus": "Извлечена из официальной карточки; актуальность требует подтверждения",
         "collections": [
           "Входные двери Эволаб Смарт"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0428",
+    "name": "Атлантик с Зеркалом 32 тонированным",
+    "collection": "Входные двери Лабиринт Атлантик",
+    "variants": [
+      {
+        "name": "Входная дверь Атлантик с Зеркалом 32 тонированным - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-32-white-relief",
+        "sourcePrice": 56500,
+        "officialImage": "https://labirintdoors.ru/images/009/598/750/9598750/original/labirint-atlantic-shagren-32-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      },
+      {
+        "name": "Входная дверь Атлантик с Зеркалом 32 тонированным - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/labirint-atlantic-32-grey-relief",
+        "sourcePrice": 56500,
+        "officialImage": "https://labirintdoors.ru/images/009/598/761/9598761/original/labirint-atlantic-shagren-32-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Атлантик"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0429",
+    "name": "Лайн Вайт с зеркалом Фацет",
+    "collection": "Входные двери Лабиринт Лайн Вайт",
+    "variants": [
+      {
+        "name": "Входная дверь Лайн Вайт с зеркалом Фацет - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-linewhite-zerkalo-facet",
+        "sourcePrice": 46300,
+        "officialImage": "https://labirintdoors.ru/images/006/567/453/6567453/original/labirint-linewhite-zerkalo-facet.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0430",
+    "name": "Лайн Вайт с Зеркалом 32 тонированным",
+    "collection": "Входные двери Лабиринт Лайн Вайт",
+    "variants": [
+      {
+        "name": "Входная дверь Лайн Вайт с Зеркалом 32 тонированным - Белый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-32-white-relief",
+        "sourcePrice": 44100,
+        "officialImage": "https://labirintdoors.ru/images/009/598/564/9598564/original/labirint-linewhite-32-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт с Зеркалом 32 тонированным - Серый рельеф софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-white-32-grey-relief",
+        "sourcePrice": 44100,
+        "officialImage": "https://labirintdoors.ru/images/009/598/569/9598569/original/labirint-linewhite-32-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0431",
+    "name": "Лайн Вайт с зеркалом Аркада",
+    "collection": "Входные двери Лабиринт Лайн Вайт",
+    "variants": [
+      {
+        "name": "Входная дверь Лайн Вайт с зеркалом Аркада - Веллюто ферро с патиной",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-s-zerkalom-arkada-vellyuto-ferro-s-patinoy",
+        "sourcePrice": 45300,
+        "officialImage": "https://labirintdoors.ru/images/012/454/315/12454315/original/labirint-linewhite-zerkalo-arkada-velluto-ferro.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0432",
+    "name": "Лайн Вайт с зеркалом Дольче",
+    "collection": "Входные двери Лабиринт Лайн Вайт",
+    "variants": [
+      {
+        "name": "Входная дверь Лайн Вайт с зеркалом Дольче - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-s-zerkalom-dolche-belyy-soft",
+        "sourcePrice": 44100,
+        "officialImage": "https://labirintdoors.ru/images/012/454/320/12454320/original/labirint-linewhite-zerkalo-dolche-beliy-soft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      },
+      {
+        "name": "Входная дверь Лайн Вайт с зеркалом Дольче - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-layn-vayt-s-zerkalom-dolche-kapuchino",
+        "sourcePrice": 44100,
+        "officialImage": "https://labirintdoors.ru/images/012/454/316/12454316/original/labirint-linewhite-zerkalo-dolche-cappuccino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лайн Вайт"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0433",
+    "name": "Лондон с зеркалом Аркада",
+    "collection": "Входные двери Лабиринт Лондон",
+    "variants": [
+      {
+        "name": "Входная дверь Лондон с зеркалом Аркада - Веллюто ферро с патиной",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-s-zerkalom-arkada-vellyuto-ferro-s-patinoy",
+        "sourcePrice": 59300,
+        "officialImage": "https://labirintdoors.ru/images/012/456/589/12456589/original/labirint-london-zerkalo-arkada-velluto-ferro.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0434",
+    "name": "Лондон с зеркалом Дольче",
+    "collection": "Входные двери Лабиринт Лондон",
+    "variants": [
+      {
+        "name": "Входная дверь Лондон с зеркалом Дольче - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-s-zerkalom-dolche-belyy-soft",
+        "sourcePrice": 58100,
+        "officialImage": "https://labirintdoors.ru/images/012/456/614/12456614/original/labirint-london-zerkalo-dolche-beliy-soft.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      },
+      {
+        "name": "Входная дверь Лондон с зеркалом Дольче - Капучино",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-london-s-zerkalom-dolche-kapuchino",
+        "sourcePrice": 58100,
+        "officialImage": "https://labirintdoors.ru/images/012/456/597/12456597/original/labirint-london-zerkalo-dolche-cappuccino.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Лондон"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0435",
+    "name": "Пазл с зеркалом",
+    "collection": "Входные двери Лабиринт Пазл",
+    "variants": [
+      {
+        "name": "Входная дверь Пазл с зеркалом 18 - Белое дерево",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-18-beloederevo",
+        "sourcePrice": 40300,
+        "officialImage": "https://labirintdoors.ru/images/006/543/363/6543363/original/labirint-pazl-18-beloederevo.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом 18 - Бетон светлый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-18-beton",
+        "sourcePrice": 40300,
+        "officialImage": "https://labirintdoors.ru/images/006/543/379/6543379/original/labirint-pazl-18-beton.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом 18 - Сандал белый",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-18-sandal",
+        "sourcePrice": 40300,
+        "officialImage": "https://labirintdoors.ru/images/006/543/378/6543378/original/labirint-pazl-18-sandal.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом 19 - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-19-white",
+        "sourcePrice": 40300,
+        "officialImage": "https://labirintdoors.ru/images/006/543/380/6543380/original/labirint-pazl-19-white.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      },
+      {
+        "name": "Входная дверь Пазл с зеркалом 19 - Грей софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-19-grey",
+        "sourcePrice": 40300,
+        "officialImage": "https://labirintdoors.ru/images/006/543/381/6543381/original/labirint-pazl-19-grey.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "OFFICIAL-GROUP-0436",
+    "name": "Пазл с Зеркалом Фацет",
+    "collection": "Входные двери Лабиринт Пазл",
+    "variants": [
+      {
+        "name": "Входная дверь Пазл с Зеркалом Фацет - Белый софт",
+        "url": "https://labirintdoors.ru/vhodnaya-dver-pazl-zerkalo-facet",
+        "sourcePrice": 43300,
+        "officialImage": "https://labirintdoors.ru/images/006/556/368/6556368/original/labirint-pazl-facet.jpg",
+        "imageStatus": "Найдено официальное изображение карточки производителя",
+        "priceStatus": "Цена подтверждена по JSON-LD Product/Offer",
+        "collections": [
+          "Входные двери Лабиринт Пазл"
         ]
       }
     ]
