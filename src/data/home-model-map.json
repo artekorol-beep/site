@@ -1,0 +1,206 @@
+[
+  {
+    "displayName": "Лаб Про 1",
+    "groupId": "OFFICIAL-GROUP-0169"
+  },
+  {
+    "displayName": "Лаб Про 2",
+    "groupId": "OFFICIAL-GROUP-0178"
+  },
+  {
+    "displayName": "Термолаб 1 тепло",
+    "groupId": "OFFICIAL-GROUP-0367"
+  },
+  {
+    "displayName": "Термолаб 2 Про",
+    "groupId": "OFFICIAL-GROUP-0376"
+  },
+  {
+    "displayName": "Пиано Смарт 2.0",
+    "groupId": "OFFICIAL-GROUP-0261"
+  },
+  {
+    "displayName": "Эволаб Смарт",
+    "groupId": "OFFICIAL-GROUP-0418"
+  },
+  {
+    "displayName": "Лаб 3 Смарт",
+    "groupId": "OFFICIAL-GROUP-0187"
+  },
+  {
+    "displayName": "Роял Смарт",
+    "groupId": "OFFICIAL-GROUP-0299"
+  },
+  {
+    "displayName": "Смартлаб",
+    "groupId": "OFFICIAL-GROUP-0331"
+  },
+  {
+    "displayName": "Эволаб",
+    "groupId": "OFFICIAL-GROUP-0407"
+  },
+  {
+    "displayName": "Кармина",
+    "groupId": "OFFICIAL-GROUP-0142"
+  },
+  {
+    "displayName": "Пиано",
+    "groupId": "OFFICIAL-GROUP-0253"
+  },
+  {
+    "displayName": "Роял",
+    "groupId": "OFFICIAL-GROUP-0289"
+  },
+  {
+    "displayName": "Иссида",
+    "groupId": "OFFICIAL-GROUP-0125"
+  },
+  {
+    "displayName": "Леолаб",
+    "groupId": "OFFICIAL-GROUP-0203"
+  },
+  {
+    "displayName": "Скайлаб",
+    "groupId": "OFFICIAL-GROUP-0318"
+  },
+  {
+    "displayName": "Соналаб",
+    "groupId": "OFFICIAL-GROUP-0340"
+  },
+  {
+    "displayName": "Шторм",
+    "groupId": "OFFICIAL-GROUP-0398"
+  },
+  {
+    "displayName": "Кредор",
+    "groupId": "OFFICIAL-GROUP-0159"
+  },
+  {
+    "displayName": "Платинум",
+    "groupId": "OFFICIAL-GROUP-0271"
+  },
+  {
+    "displayName": "Бетон",
+    "groupId": "OFFICIAL-GROUP-0036"
+  },
+  {
+    "displayName": "Инфинити",
+    "groupId": "OFFICIAL-GROUP-0118"
+  },
+  {
+    "displayName": "Нью-Йорк",
+    "groupId": "OFFICIAL-GROUP-0235"
+  },
+  {
+    "displayName": "Мегаполис",
+    "groupId": "OFFICIAL-GROUP-0227"
+  },
+  {
+    "displayName": "Гранд",
+    "groupId": "OFFICIAL-GROUP-0109"
+  },
+  {
+    "displayName": "Урбан",
+    "groupId": "OFFICIAL-GROUP-0392"
+  },
+  {
+    "displayName": "Арт",
+    "groupId": "OFFICIAL-GROUP-0018"
+  },
+  {
+    "displayName": "Трендо",
+    "groupId": "OFFICIAL-GROUP-0383"
+  },
+  {
+    "displayName": "Версаль",
+    "groupId": "OFFICIAL-GROUP-0100"
+  },
+  {
+    "displayName": "Лайн Вайт",
+    "groupId": "OFFICIAL-GROUP-0197"
+  },
+  {
+    "displayName": "Орлеан",
+    "groupId": "OFFICIAL-GROUP-0242"
+  },
+  {
+    "displayName": "Карбон",
+    "groupId": "OFFICIAL-GROUP-0133"
+  },
+  {
+    "displayName": "Пазл",
+    "groupId": "OFFICIAL-GROUP-0245"
+  },
+  {
+    "displayName": "Лофт",
+    "groupId": "OFFICIAL-GROUP-0220"
+  },
+  {
+    "displayName": "Сильвер",
+    "groupId": "OFFICIAL-GROUP-0309"
+  },
+  {
+    "displayName": "Классик (шагрень черная)",
+    "groupId": "OFFICIAL-GROUP-0151"
+  },
+  {
+    "displayName": "Классик (антик медный)",
+    "groupId": "OFFICIAL-GROUP-0149"
+  },
+  {
+    "displayName": "Скандия",
+    "groupId": "OFFICIAL-GROUP-0330"
+  },
+  {
+    "displayName": "Айслаб",
+    "groupId": "OFFICIAL-GROUP-0001"
+  },
+  {
+    "displayName": "Норд плюс",
+    "groupId": "OFFICIAL-GROUP-0234"
+  },
+  {
+    "displayName": "Лондон",
+    "groupId": "OFFICIAL-GROUP-0211"
+  },
+  {
+    "displayName": "Фрост 7024",
+    "groupId": "OFFICIAL-GROUP-0116"
+  },
+  {
+    "displayName": "Имперо",
+    "groupId": "OFFICIAL-GROUP-0117"
+  },
+  {
+    "displayName": "Сияна",
+    "groupId": "OFFICIAL-GROUP-0317"
+  },
+  {
+    "displayName": "Полярис лайт",
+    "groupId": "OFFICIAL-GROUP-0279"
+  },
+  {
+    "displayName": "Верса",
+    "groupId": "OFFICIAL-GROUP-0099"
+  },
+  {
+    "displayName": "Аляска лайт",
+    "groupId": "OFFICIAL-GROUP-0011"
+  },
+  {
+    "displayName": "Тундра плюс",
+    "groupId": "OFFICIAL-GROUP-0391"
+  },
+  {
+    "displayName": "Атлантик",
+    "groupId": "OFFICIAL-GROUP-0027"
+  },
+  {
+    "displayName": "Термомагнит",
+    "groupId": "OFFICIAL-GROUP-0357"
+  },
+  {
+    "displayName": "Термолайт",
+    "groupId": "OFFICIAL-GROUP-0349"
+  }
+]
